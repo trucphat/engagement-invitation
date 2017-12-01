@@ -1,0 +1,17 @@
+body {
+	font-family: 'Dancing Script', Helvetica, sans-serif;
+	background-color: #dda0dd; /*#B0E0E6;*/
+}
+
+* {
+	box-sizing: border-box;
+}
+
+p {
+	font-size: 22px;
+}
+
+/* Hai trái tim */
+.redheart {
+	color:#ff0000;
+}
